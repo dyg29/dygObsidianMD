@@ -21,7 +21,7 @@
 <div>
 
 
-![](obsidian://open?vault=PaperBell&file=40%20-%20Obsidian%2F%E9%99%84%E4%BB%B6%2FPasted%20image%2020240719202954.png)
+![](http://xyzhang.ucsd.edu/images/xyzhang.jpg)
 
 
 </div>
