@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Persons/Scholars/Jinsong Han（韩劲松）/","title":"Professor","tags":["scholar"]}
 ---
 
+
 ## 基本信息
 ````ad-flex
 
@@ -26,6 +27,7 @@
 </div>
 
 ````
+
 ## 研究兴趣
 His work focuses on IoT security, smart sensing, wireless and mobile computing.
 
@@ -41,6 +43,7 @@ His work focuses on IoT security, smart sensing, wireless and mobile computing.
     at DataviewApi.executeJs (plugin:dataview:18954:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
     at Generator.next (&lt;anonymous&gt;)</pre>
+
 ## 最新动态
 <pre class="dataview dataview-error">Evaluation Error: TypeError: names.push is not a function
     at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:5:7)

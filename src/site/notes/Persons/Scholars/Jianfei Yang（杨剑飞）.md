@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Persons/Scholars/Jianfei Yang（杨剑飞）/","title":"Assistant Professor","tags":["scholar"]}
 ---
 
+
 ## 基本信息
 ````ad-flex
 
@@ -26,6 +27,7 @@
 </div>
 
 ````
+
 ## 研究兴趣
 ### Research Interests
 My research mainly focuses on **Artificial Intelligence of Things (AIoT)**, where the state-of-the-art AI models are proposed for edge devices and enables everything interconnected. Broadly speaking, I study how AI models empower IoT-enabled edge devices to sense the environment (i.e. **AIoT Sensing**), how AI models are efficiently deployed in resource-restrained environments (i.e. **Efficient AI**), how multi-modal IoT data can be represented to support human-machine interaction via large language models (i.e. **Multimodal LLM**), and how AIoT enables trustworthy and automatic transactions and business (i.e. **IoT Blockchain**). My ultimate vision is to create a world of **Artificial Internet of Everything** encircled by edge intelligence and LLM.
@@ -48,6 +50,7 @@ Revolving these goals, my team mainly studies the following topics:
     at DataviewApi.executeJs (plugin:dataview:18954:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
     at Generator.next (&lt;anonymous&gt;)</pre>
+
 ## 最新动态
 <pre class="dataview dataview-error">Evaluation Error: TypeError: names.push is not a function
     at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:5:7)
