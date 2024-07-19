@@ -12,7 +12,7 @@
 
 🧑‍🔬Jianfei Yang
 📮jianfei.yang@ntu.edu.sg
-🏫[[Director of Multimodal AI and RoboticS <MARS> Lab; School of Mechanical and Aerospace Engineering; School of Electrical and Electronic Engineering; Nanyang Technological University, Singapore|Director of Multimodal AI and RoboticS <MARS> Lab; School of Mechanical and Aerospace Engineering; School of Electrical and Electronic Engineering; Nanyang Technological University, Singapore]]
+🏫[[Director of Multimodal AI and RoboticS <MARS> Lab，Nanyang Technological University, Singapore|Director of Multimodal AI and RoboticS <MARS> Lab，Nanyang Technological University, Singapore]]
 🔗https://marsyang.site/
 
 </div>
