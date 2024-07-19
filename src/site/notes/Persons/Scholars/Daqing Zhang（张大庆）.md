@@ -21,7 +21,7 @@
 <div>
 
 
-![](http://www-public.tem-tsp.eu/~zhang_da/fig/Daqing2.jpg)
+![](http://www-public.tem-tsp.eu/~zhang_da/fig/daqing.jpg)
 
 
 </div>
